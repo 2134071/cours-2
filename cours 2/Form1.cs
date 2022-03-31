@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace cours_2
-{
+{//ajout d'un 3e message
     public partial class Form1 : Form
     {
         List<string> listeDeMots = new List<string>();
